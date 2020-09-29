@@ -1,2 +1,2 @@
 # Dissertation
-Contextual Understanding and Intent Detection on an Embedded System
+Contextual Understanding and Object Intent Detection
